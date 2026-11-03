@@ -12,7 +12,7 @@ I am a Data Analyst with 3+ years of experience transforming complex raw data in
 - Google slides
 
 ## My Projects
-- [Impulse Growth Success - Capstone Project](https://docs.google.com/presentation/d/1Q17Z1tBfBkJ3ZdyJ4FTyc0Vm9jB2c9oN7s988JJ3CVQ/edit?usp=sharing) (Data analytics capstone using BigQuery SQL, and Tableau to drive marketing conversions)
+- [Impulse Growth Success - Capstone Project](https://github.com/Aldo1997-dataanalyst/Impulse_Business_Growth_Success) (Data analytics capstone using BigQuery SQL, and Tableau to drive marketing conversions)
 - [Private Business Project] [Mold Management Project Migration to SAP ERP] (https://www.linkedin.com/in/aldo-fernández-hernández-b4902b232) (Data modeling, platform migration, and Power BI operational dashboards)
 - [Private Business Project] [PMC System Process Migration to MP10] (https://www.linkedin.com/in/aldo-fernández-hernández-b4902b232) (Process migration, data integrity alignment, and custom Power BI reporting)
 
